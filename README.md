@@ -7,7 +7,7 @@
 
 -  **Learning :** Full-Stack Development :zap:
 
--  **Languages :** Html, Css, Scss, JavaScript, Bootstrap, Git and Github, Jquery, RESTful Api, AJAX, Web Services, OOP, Typescript, React, Redux, Node, Angular, Socket Io, Php, Sql, MongoDb and Mongoose, Security, Deployment
+-  **Skills :** Html, Css, Scss, JavaScript, Bootstrap, Git and Github, Jquery, RESTful Api, AJAX, Web Services, OOP, Typescript, React, Redux, Node, Angular, Socket Io, Php, Sql, MongoDb and Mongoose, Security, Deployment
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ronnizan&show_icons=true)
