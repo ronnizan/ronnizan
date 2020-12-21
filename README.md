@@ -5,10 +5,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap
+-  **Learning :** Full-Stack Development ::zap
 -  **Languages :** JavaScript, React, Angular, Node, Exprss, Sql, MongoDB
 
--  **Looking for a job!
+-  **Looking for a job! **
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ronnizan&show_icons=true)
